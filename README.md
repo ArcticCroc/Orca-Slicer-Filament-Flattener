@@ -23,4 +23,16 @@ This tool is designed for users who want complete control over their OrcaSlicer 
 - tkinterdnd2 (installed inside a virtual environment)
 ## 🛠️ Installation
 ### 1. Create a virtual environment
-`python3 -m venv flatten-env`
+```bash  
+python3 -m venv flatten-env
+```
+Activate it:
+```bash
+source flatten-env/bin/activate
+```
+## 2. Install Tkinter (system package)
+### For Python 3.13:
+```bash
+sudo apt install python3.13-tk
+```
+
