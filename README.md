@@ -26,8 +26,8 @@ tkinterdnd2 (installed inside a virtual environment)
 
 🛠️ Installation
 1. Create a virtual environment
-bash
-python3 -m venv flatten-env
+'bash
+python3 -m venv flatten-env'
 Activate it:
 
 bash
