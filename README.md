@@ -30,9 +30,17 @@ Activate it:
 ```bash
 source flatten-env/bin/activate
 ```
+Your shell prompt should now show:
+```bash 
+(flatten-env) …
+```
 ## 2. Install Tkinter (system package)
 ### For Python 3.13:
 ```bash
 sudo apt install python3.13-tk
+```
+## tkinterdnd2 (inside the venv)
+```bash
+pip install tkinterdnd2
 ```
 
